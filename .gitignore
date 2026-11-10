@@ -3,6 +3,19 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+.vscode/
+ts_deeplearning_venv/
+
+# Models
+*.keras
+
+# Logs
+training_log.csv
+
+# Data
+*.tar
+images_dataSAT
+
 # C extensions
 *.so
 
